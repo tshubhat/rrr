@@ -5,4 +5,6 @@ blue
 green
 yellow
 violet
+Red 
+Mango
 these are colours
